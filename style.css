@@ -1,0 +1,20 @@
+table{
+    margin: 50px;
+    width: 500px;
+    width: 500px;
+    
+}
+.odd{
+    background-color:darkgray;
+}
+th{
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-bottom: solid ;
+}
+tr:hover{
+    background-color: gray;
+}
+td{
+    text-transform: capitalize;
+}
